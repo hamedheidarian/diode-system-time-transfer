@@ -1,1 +1,2 @@
 This simple groovy script transfers system time in the low-side to the up-side and sets it as the up-side system's time.
+This script works only if the high-end's OS is unix-based. Otherwise change the command respectively.
